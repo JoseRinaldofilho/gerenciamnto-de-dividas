@@ -7,7 +7,7 @@ class Dividas
     public $error;
 
     public function __construct(){
-        // nome do banco
+        // nome do appbanco
 
         $nome = 'sistema_contas';
         $user = 'root';
